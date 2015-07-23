@@ -6,3 +6,5 @@ Fei Yao Li
 ~Changelog~
 2015/07/20 - Created README, changelog, and set up IDE environments (Sublime Text 2)
 2015/07/20 - Created ok.py ‘hello world’
+2015/07/23 - Downloaded requests: https://github.com/kennethreitz/requests
+2015/07/23 - Used built-in JSON decoder to load Summoner objects
