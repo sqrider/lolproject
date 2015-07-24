@@ -18,4 +18,4 @@ request_summoner = requests.get('https://na.api.pvp.net/api/lol/na/v1.4/summoner
 parsed_summoner = request_summoner.json()
 
 #print Summoner id
-print parsed_summoner["ilovewho"]["id"]
+print(parsed_summoner["ilovewho"]["id"])
